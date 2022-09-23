@@ -60,6 +60,9 @@ sections:
               height: 300
               url: /images/google-logo.svg
             height: 60
+      - type: PartnersGroup
+        title: Gold sponsors
+        partners: []
   - type: SpacerSection
     size: sm
   - type: SpacerSection
