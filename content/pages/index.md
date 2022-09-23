@@ -62,7 +62,12 @@ sections:
             height: 60
       - type: PartnersGroup
         title: Gold sponsors
-        partners: []
+        partners:
+          - type: Partner
+            name: Google
+            url: ''
+            logo: null
+            height: 60
   - type: SpacerSection
     size: sm
   - type: SpacerSection
