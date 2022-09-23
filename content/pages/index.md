@@ -66,11 +66,6 @@ sections:
           - type: Partner
             name: Google
             url: ''
-            logo:
-              type: Image
-              alt: ''
-              width: 0
-              height: 0
             height: 60
   - type: SpacerSection
     size: sm
