@@ -1,7 +1,7 @@
 {
     "type": "EventConfig",
     "name": "Event Name 2022",
-    "description": "This year's DevFest brings together developers from around the globe for talks, hands-on learning with Google experts, and a first look at latest developer products.",
+    "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about Google’s technologies.",
     "date": "2022-11-26",
     "venue": "Cebu City, Philippines",
     "logo": {
