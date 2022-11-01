@@ -12,7 +12,7 @@ sections:
     cta:
       type: Link
       label: Register now
-      url: 'https://bit.ly/DevFest2022Registration/'
+      url: 'https://bit.ly/DevFest2022Registration'
     banner:
       type: Image
       alt: Event Name 2022
