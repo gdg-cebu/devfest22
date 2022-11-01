@@ -26,7 +26,7 @@ sections:
         value: 500+
       - type: Stats
         label: Sessions
-        value: '50'
+        value: '2'
       - type: Stats
         label: Day
         value: '1'
