@@ -23,7 +23,7 @@ sections:
     stats:
       - type: Stats
         label: Attendees
-        value: '500'
+        value: 500+
       - type: Stats
         label: Sessions
         value: '50'
