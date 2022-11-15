@@ -4,5 +4,10 @@
     "designation": "Engineering Manager",
     "company": "Bukalapak",
     "bio": "Pradana is a person who is really passionate about people and technology from technical side and from community side. He is founding and leading Firebase Indonesia Contributor and maintaining the contributor activity, roadmap and the impact to create another local Firebase Community in Indonesia. In Google developers ecosystem, he was one of the remarkable GDSC Lead from Indonesia since 2017 and leading GDG Jakarta since 2019, in 2019 he was also a mentor for Google Developers Kejar program for Mobile Web Specialist for Firebase chosen as top 10 Mentor, as well as the Speaker and Mentor for Google Bangkit 2022 Program. Combining an appetite for success and a passion for communities, previously Pradana has won multiple international hackathons as well as spoken at various tech events and conferences like GlobarXR, GDG I/O Extended and GDG Devfest across the globe of Asia, Europe and Africa. In his free time, Pradana likes to research technologies and write extensively on various full-stack technical topics such as Firebase, AR/VR, Frontend and Backend to help others learn.\n\n",
-    "image": null
+    "image": {
+        "type": "Image",
+        "alt": "",
+        "width": 0,
+        "height": 0
+    }
 }
