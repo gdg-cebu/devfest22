@@ -19,8 +19,6 @@ sections:
   - type: SpacerSection
     size: flex
   - type: DividerSection
-  - type: SpeakersSection
-    speakers: []
   - type: DividerSection
   - type: SocialSection
     content: |+
