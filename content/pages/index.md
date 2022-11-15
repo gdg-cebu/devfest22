@@ -88,6 +88,9 @@ sections:
       - type: PartnersGroup
         title: PR Partner
         partners: []
+      - type: PartnersGroup
+        title: Media Partner
+        partners: []
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
     links:
