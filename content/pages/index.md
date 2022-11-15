@@ -19,12 +19,6 @@ sections:
       width: 1920
       height: 1280
       url: /images/sample-image.jpg
-      1
-2
-3
-4
-5
-6
 fields:
   - type: style
     name: styles
