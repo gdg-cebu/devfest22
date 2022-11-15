@@ -64,6 +64,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/google.svg
             height: 60
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
