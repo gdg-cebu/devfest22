@@ -93,4 +93,5 @@ seoDescription: >-
   DevFests are community-led developer events hosted by Google Developer Groups
   around the globe. GDGs are focused on community building and learning about
   Google’s technologies.
+seoImage: /images/314093524_5955924864442353_1572247040338536627_n.jpg
 ---
