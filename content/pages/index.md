@@ -18,7 +18,7 @@ sections:
       alt: Event Name 2022
       width: 1920
       height: 1280
-      url: /images/sample-image.jpg
+      url: /images/83309564_2993650900669779_2500697493520515072_n.jpg
   - type: StatsSection
     stats:
       - type: Stats
