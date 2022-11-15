@@ -50,6 +50,9 @@ sections:
   - type: SpacerSection
     size: flex
   - type: DividerSection
+  - type: PartnersSection
+    title: Partners
+    groups: []
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
     links:
