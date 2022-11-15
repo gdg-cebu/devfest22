@@ -9,12 +9,6 @@ sections:
       label: Register now
       url: 'https://bit.ly/DevFest2022Registration'
   - type: EventInfoSection
-    logo:
-      type: Image
-      alt: GDG Logo
-      width: 800
-      height: 800
-      url: /images/gdg-logo.png
     cta:
       type: Link
       label: Register now
