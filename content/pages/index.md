@@ -6,7 +6,7 @@ sections:
     logo: null
     cta:
       type: Link
-      label: Register Now
+      label: Register now
       url: 'https://bit.ly/DevFest2022Registration'
     banner: null
   - type: EventInfoSection
