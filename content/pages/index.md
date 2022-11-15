@@ -72,6 +72,9 @@ sections:
       - type: PartnersGroup
         title: Amazing supporters
         partners: []
+      - type: PartnersGroup
+        title: Venue Partner
+        partners: []
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
     links:
