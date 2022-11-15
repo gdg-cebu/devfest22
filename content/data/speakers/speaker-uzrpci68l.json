@@ -4,5 +4,10 @@
     "designation": "Senior Consultant/Mobile Engineer",
     "company": "ThoughtWorks",
     "bio": "7 years in the tech industry. Mostly known for making mVoter, the official Burmese election information provider. I consider myself a craftsman. I don't just code, I craft products.\n",
-    "image": null
+    "image": {
+        "type": "Image",
+        "alt": "",
+        "width": 0,
+        "height": 0
+    }
 }
