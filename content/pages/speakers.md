@@ -19,7 +19,6 @@ sections:
   - type: SpacerSection
     size: flex
   - type: DividerSection
-  - type: DividerSection
   - type: SocialSection
     content: |+
       #### Keep in touch with us for the latest announcements about the event.
