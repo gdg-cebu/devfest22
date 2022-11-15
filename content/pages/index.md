@@ -4,7 +4,10 @@ title: Home
 sections:
   - type: EventInfoSection
     logo: null
-    cta: null
+    cta:
+      type: Link
+      label: Register Now
+      url: 'https://bit.ly/DevFest2022Registration'
     banner: null
   - type: EventInfoSection
     logo:
