@@ -9,7 +9,6 @@ sections:
         title: Track 1
         details: Primary Session Hall
         sessions:
-          - content/data/sessions/session-db6bdqs7k.json
           - content/data/sessions/session-e88f260n5.json
           - content/data/sessions/session-ja5y0qghz.json
       - type: ScheduleTrack
