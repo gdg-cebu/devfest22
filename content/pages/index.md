@@ -40,16 +40,6 @@ sections:
       sharing in a phenomenal atmosphere.
   - type: SpacerSection
     size: sm
-  - type: GallerySection
-    title: '#devfest20 highlights'
-    description: >-
-      Last 2020's festival built lots of excitement. Check out photos from
-      featured talks, hands-on learning sessions, and after-hours fun.
-    cta:
-      type: Link
-      label: See all photos
-      url: /
-    images: []
   - type: SpacerSection
     size: flex
   - type: DividerSection
