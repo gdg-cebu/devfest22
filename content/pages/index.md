@@ -78,7 +78,11 @@ sections:
           - type: Partner
             name: Golden Peak Hotel
             url: ''
-            logo: null
+            logo:
+              type: Image
+              alt: ''
+              width: 0
+              height: 0
             height: 60
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
