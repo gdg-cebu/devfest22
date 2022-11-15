@@ -65,10 +65,6 @@ sections:
       - type: Link
         label: Website
         url: 'https://gdgcebu.org/'
-  - type: EventInfoSection
-    logo: null
-    cta: null
-    banner: null
 seoTitle: GDG DevFest Cebu 2022
 seoDescription: >-
   DevFests are community-led developer events hosted by Google Developer Groups
