@@ -3,6 +3,10 @@ layout: HomePageLayout
 title: Home
 sections:
   - type: EventInfoSection
+    logo: null
+    cta: null
+    banner: null
+  - type: EventInfoSection
     logo:
       type: Image
       alt: GDG Logo
