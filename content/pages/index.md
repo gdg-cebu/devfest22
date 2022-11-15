@@ -37,7 +37,7 @@ sections:
       Our team creates GDG DevFest Cebu 2022 to be the best place for experience
       sharing in a phenomenal atmosphere.
   - type: GallerySection
-    title: '#devfest19 highlights'
+    title: '#devfest20 highlights'
     description: >-
       Last 2019's festival built lots of excitement. Check out photos from
       featured talks, hands-on learning sessions, and after-hours fun.
