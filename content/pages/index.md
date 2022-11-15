@@ -8,13 +8,6 @@ sections:
       type: Link
       label: Register now
       url: 'https://bit.ly/DevFest2022Registration'
-  - type: EventInfoSection
-    banner:
-      type: Image
-      alt: Event Name 2022
-      width: 1920
-      height: 1280
-      url: /images/83309564_2993650900669779_2500697493520515072_n.jpg
   - type: StatsSection
     stats:
       - type: Stats
