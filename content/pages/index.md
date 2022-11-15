@@ -87,5 +87,5 @@ sections:
       - type: Link
         label: Website
         url: 'https://gdgcebu.org/'
-seoTitle: DevFest
+seoTitle: GDG DevFest Cebu 2022
 ---
