@@ -20,7 +20,7 @@ sections:
       height: 1280
       url: /images/sample-image.jpg
     fields:
-    - type: style
+        type: style
         name: styles
         styles:
         self:
