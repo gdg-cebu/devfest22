@@ -66,6 +66,9 @@ sections:
               height: 0
               url: /images/google.svg
             height: 60
+      - type: PartnersGroup
+        title: Special thanks
+        partners: []
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
     links:
