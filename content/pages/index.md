@@ -19,12 +19,12 @@ sections:
       width: 1920
       height: 1280
       url: /images/sample-image.jpg
-    fields:
-      - type: style
-        name: styles
-        styles:
-            self:
-                flexDirection: ['flex-start', 'flex-end', 'center']
+fields:
+    - type: style
+    name: styles
+    styles:
+        self:
+            flexDirection: ['flex-start', 'flex-end', 'center']
   - type: StatsSection
     stats:
       - type: Stats
