@@ -87,4 +87,5 @@ sections:
       - type: Link
         label: Website
         url: 'https://gdgcebu.org/'
+seoTitle: DevFest
 ---
