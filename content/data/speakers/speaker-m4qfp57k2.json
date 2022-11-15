@@ -4,5 +4,10 @@
     "designation": "Software Engineer",
     "company": "Matcha Jobs",
     "bio": "Tech protege since high school, Gary ventured into tech early and limitlessly spans borders by joining competitions and working with international clients. As a fourth-year Computer Science student at Cebu Institute of Technology - University, he continuously scales his experience in the tech industry by winning hackathons, building software solutions for global organizations, and speaking in university events to inspire students who dare to fearlessly dream and venture into technology. His latest speaking event was at this year’s Google I/O Extended event in Cebu.\n\n",
-    "image": null
+    "image": {
+        "type": "Image",
+        "alt": "",
+        "width": 0,
+        "height": 0
+    }
 }
