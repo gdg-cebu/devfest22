@@ -19,10 +19,6 @@ sections:
   - type: SpacerSection
     size: flex
   - type: DividerSection
-  - type: EventInfoSection
-    logo: null
-    cta: null
-    banner: null
   - type: SpeakersSection
     speakers: []
   - type: DividerSection
