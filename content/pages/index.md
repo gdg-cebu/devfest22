@@ -39,7 +39,7 @@ sections:
   - type: GallerySection
     title: '#devfest20 highlights'
     description: >-
-      Last 2019's festival built lots of excitement. Check out photos from
+      Last 2020's festival built lots of excitement. Check out photos from
       featured talks, hands-on learning sessions, and after-hours fun.
     cta:
       type: Link
