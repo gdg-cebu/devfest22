@@ -4,5 +4,10 @@
     "designation": "Chief Technical Officer",
     "company": "DNA Micro Software, Inc.",
     "bio": "Bon is an extremely competent and experienced engineer with a demonstrated history of working in the computer software industry. His career took off in DNAMicro back in 2016 when he skillfully addressed and solved an issue in the company, as other's modestly put it. \n\nHe's more into coding rather than being the big head of the company. If you're looking for someone who truly embodies the cliche nerd guys in movies, look no further; Bon is the best guy for the role. One of his former team members even described him as the \"living swiss-army knife of a developer\" -- multifunctional and inventive. That's how good he is. \n\nHe finds fulfillment in simply creating systems and applications rather than the allure of his position. You will always see him in the office regardless if it's the weekend. Nobody ever told him to do that, but he just goes.\n",
-    "image": null
+    "image": {
+        "type": "Image",
+        "alt": "",
+        "width": 0,
+        "height": 0
+    }
 }
