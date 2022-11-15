@@ -14,6 +14,8 @@ sections:
       width: 0
       height: 0
       url: /images/83309564_2993650900669779_2500697493520515072_n.jpg
+  - type: SpacerSection
+    size: sm
   - type: StatsSection
     stats:
       - type: Stats
@@ -36,8 +38,6 @@ sections:
 
       Our team creates GDG DevFest Cebu 2022 to be the best place for experience
       sharing in a phenomenal atmosphere.
-  - type: SpacerSection
-    size: sm
   - type: SpacerSection
     size: sm
   - type: GallerySection
