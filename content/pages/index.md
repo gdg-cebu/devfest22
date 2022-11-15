@@ -23,8 +23,8 @@ sections:
       - type: style
         name: styles
         styles:
-        self:
-            flexDirection: ['flex-start', 'flex-end', 'center']
+            self:
+                flexDirection: ['flex-start', 'flex-end', 'center']
   - type: StatsSection
     stats:
       - type: Stats
