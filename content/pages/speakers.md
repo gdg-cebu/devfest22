@@ -11,6 +11,7 @@ sections:
       - content/data/speakers/speaker-vhxj09vq7.json
       - content/data/speakers/speaker-uzrpci68l.json
       - content/data/speakers/speaker-s7s022bij.json
+      - content/data/speakers/speaker-zsv05ftkh.json
   - type: SpacerSection
     size: flex
   - type: DividerSection
