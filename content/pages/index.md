@@ -38,6 +38,8 @@ sections:
       sharing in a phenomenal atmosphere.
   - type: SpacerSection
     size: sm
+  - type: SpacerSection
+    size: sm
   - type: GallerySection
     title: '#devfest20 highlights'
     description: >-
@@ -48,8 +50,6 @@ sections:
       label: See all photos
       url: /
     images: []
-  - type: SpacerSection
-    size: sm
   - type: SpacerSection
     size: sm
   - type: SpacerSection
