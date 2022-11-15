@@ -1,7 +1,7 @@
 ---
 layout: EventPageLayout
 title: Schedule
-showLogo: false
+showLogo: true
 sections:
   - type: ScheduleSection
     tracks:
