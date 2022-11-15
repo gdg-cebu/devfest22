@@ -1,9 +1,6 @@
 ---
 layout: EventPageLayout
 title: Schedule
-subtitle: >-
-  Learn the latest developer products from Googlers, Google Developer Experts,
-  guest speakers and more.
 showLogo: false
 sections:
   - type: ScheduleSection
