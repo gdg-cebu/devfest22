@@ -13,6 +13,7 @@ sections:
       alt: ''
       width: 0
       height: 0
+      url: /images/83309564_2993650900669779_2500697493520515072_n.jpg
   - type: StatsSection
     stats:
       - type: Stats
