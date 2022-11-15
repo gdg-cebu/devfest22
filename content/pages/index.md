@@ -52,7 +52,10 @@ sections:
   - type: DividerSection
   - type: PartnersSection
     title: Partners
-    groups: []
+    groups:
+      - type: PartnersGroup
+        title: General sponsors
+        partners: []
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
     links:
