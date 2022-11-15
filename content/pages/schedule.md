@@ -8,8 +8,7 @@ sections:
       - type: ScheduleTrack
         title: Track 1
         details: Primary Session Hall
-        sessions:
-          - content/data/sessions/session-ja5y0qghz.json
+        sessions: []
       - type: ScheduleTrack
         title: Track 2
         details: Secondary Session Hall
