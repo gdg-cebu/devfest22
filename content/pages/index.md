@@ -8,7 +8,11 @@ sections:
       type: Link
       label: Register now
       url: 'https://bit.ly/DevFest2022Registration'
-    banner: null
+    banner:
+      type: Image
+      alt: ''
+      width: 0
+      height: 0
   - type: EventInfoSection
     logo:
       type: Image
