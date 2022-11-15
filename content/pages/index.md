@@ -51,8 +51,6 @@ sections:
       url: /
     images: []
   - type: SpacerSection
-    size: sm
-  - type: SpacerSection
     size: flex
   - type: DividerSection
   - type: PartnersSection
