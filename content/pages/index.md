@@ -85,6 +85,9 @@ sections:
               height: 0
               url: /images/golden-peak.png
             height: 60
+      - type: PartnersGroup
+        title: PR Partner
+        partners: []
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
     links:
