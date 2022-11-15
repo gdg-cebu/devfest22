@@ -30,16 +30,17 @@ sections:
       - type: Stats
         label: Day
         value: '1'
-    content: >-
+    content: >
       # What you need to know, before you ask
 
 
-      This event brings together experts in Machine Learning, Android, Web and
-      Cloud technologies to a day full of sessions, workshops and showcases.
+      GDG DevFest Cebu 2019 brings together experts in Machine Learning,
+      Android, Web and Cloud technologies to a day full of sessions, workshops
+      and showcases.
 
 
-      Our team creates this event to be the best place for experience sharing in
-      a phenomenal atmosphere.
+      Our team creates GDG DevFest Cebu 2019 to be the best place for experience
+      sharing in a phenomenal atmosphere.
   - type: SpacerSection
     size: sm
   - type: SpacerSection
