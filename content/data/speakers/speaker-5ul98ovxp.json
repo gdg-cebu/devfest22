@@ -4,5 +4,10 @@
     "designation": "CTO | Google Developer Expert | Google for Startups Accelerator Mentor",
     "company": "TupeloLife",
     "bio": "Google Developer Expert, Founding Team Member and Chief Technology Officer at TupeloLife (a connected health company), Google For Startups Accelerator Mentor, Founder, and Head of GDG Doha, Speaker, Writer, Blogger, Mentor, and Youtuber. He developed an early fascination for technology and since then, has always been on a quest to learn, share and innovate. Also, loves to share the experience and learnings of the products and services with the community to inspire them to build a better future. He has vast experience in mobile, web, VR/AR, Voice, Cloud Computing and also building solutions for the Healthcare industry and responsible for building and providing a platform for the American Heart Association’s National Hypertension Program in the United States. Recognized as an expert in technology and leadership, invited by world-class institutes and startup accelerators to participate in public lectures, mentorship, and training.\n\n",
-    "image": null
+    "image": {
+        "type": "Image",
+        "alt": "",
+        "width": 0,
+        "height": 0
+    }
 }
