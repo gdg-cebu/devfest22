@@ -38,7 +38,9 @@ sections:
       sharing in a phenomenal atmosphere.
   - type: GallerySection
     title: '#devfest19 highlights'
-    description: ''
+    description: >-
+      Last year's festival built lots of excitement. Check out photos from
+      featured talks, hands-on learning sessions, and after-hours fun.
     cta: null
     images: []
   - type: SpacerSection
