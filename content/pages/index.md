@@ -29,12 +29,12 @@ sections:
       # What you need to know, before you ask
 
 
-      GDG DevFest Cebu 2019 brings together experts in Machine Learning,
+      GDG DevFest Cebu 2022 brings together experts in Machine Learning,
       Android, Web and Cloud technologies to a day full of sessions, workshops
       and showcases.
 
 
-      Our team creates GDG DevFest Cebu 2019 to be the best place for experience
+      Our team creates GDG DevFest Cebu 2022 to be the best place for experience
       sharing in a phenomenal atmosphere.
   - type: SpacerSection
     size: sm
