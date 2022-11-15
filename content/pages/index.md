@@ -55,7 +55,12 @@ sections:
     groups:
       - type: PartnersGroup
         title: General sponsors
-        partners: []
+        partners:
+          - type: Partner
+            name: Google
+            url: ''
+            logo: null
+            height: 60
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
     links:
