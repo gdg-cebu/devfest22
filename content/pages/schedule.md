@@ -12,8 +12,7 @@ sections:
       - type: ScheduleTrack
         title: Track 2
         details: Secondary Session Hall
-        sessions:
-          - content/data/sessions/session-qhuvxzikz.json
+        sessions: []
   - type: SpacerSection
     size: flex
   - type: DividerSection
