@@ -55,7 +55,7 @@ sections:
         alt: ''
         width: 0
         height: 0
-        url: /images/DSC_0621.JPG
+        url: /images/DSC07905-3d498e05.JPG
       - type: Image
         alt: ''
         width: 0
