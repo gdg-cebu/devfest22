@@ -41,7 +41,7 @@ sections:
   - type: SpacerSection
     size: sm
   - type: GallerySection
-    title: '#devfest18 highlights'
+    title: '#devfest19 highlights'
     description: ''
     cta: null
     images: []
