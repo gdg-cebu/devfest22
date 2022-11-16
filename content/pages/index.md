@@ -40,6 +40,11 @@ sections:
       sharing in a phenomenal atmosphere.
   - type: SpacerSection
     size: sm
+  - type: GallerySection
+    title: asd
+    description: ''
+    cta: null
+    images: []
   - type: SpacerSection
     size: flex
   - type: DividerSection
