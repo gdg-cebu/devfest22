@@ -50,7 +50,11 @@ sections:
       label: See all photos
       url: >-
         https://photos.google.com/share/AF1QipPtmpYhIwGDRZ-CLbkqKgtJfe6FK1UCPFbv8eBGTolNNvlRF37r_6Py-klqAckDJA?key=Q1d2eFNOTU82NzN2d2ROVmU5QW0yYlhFVk5ZTW9R/
-    images: []
+    images:
+      - type: Image
+        alt: ''
+        width: 0
+        height: 0
   - type: SpacerSection
     size: flex
   - type: DividerSection
