@@ -45,7 +45,11 @@ sections:
     description: >-
       Last 2019's festival built lots of excitement. Check out photos from
       featured talks, hands-on learning sessions, and after-hours fun.
-    cta: null
+    cta:
+      type: Link
+      label: See all photos
+      url: >-
+        https://photos.google.com/share/AF1QipPtmpYhIwGDRZ-CLbkqKgtJfe6FK1UCPFbv8eBGTolNNvlRF37r_6Py-klqAckDJA?key=Q1d2eFNOTU82NzN2d2ROVmU5QW0yYlhFVk5ZTW9R/
     images: []
   - type: SpacerSection
     size: flex
