@@ -70,6 +70,7 @@ sections:
         alt: ''
         width: 0
         height: 0
+        url: /images/DSC07823.JPG
   - type: SpacerSection
     size: flex
   - type: DividerSection
