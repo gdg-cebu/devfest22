@@ -137,6 +137,9 @@ sections:
               url: /images/InfoTrust logo - 256x256 - blue on white.png
             height: 80
       - type: PartnersGroup
+        title: Media Partner
+        partners: []
+      - type: PartnersGroup
         title: General sponsors
         partners:
           - type: Partner
@@ -162,9 +165,6 @@ sections:
               height: 0
               url: /images/golden-peak.png
             height: 60
-      - type: PartnersGroup
-        title: Media Partner
-        partners: []
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
     links:
