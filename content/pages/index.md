@@ -185,7 +185,11 @@ sections:
           - type: Partner
             name: TIMEX
             url: ''
-            logo: null
+            logo:
+              type: Image
+              alt: ''
+              width: 0
+              height: 0
             height: 60
       - type: PartnersGroup
         title: Venue Partner
