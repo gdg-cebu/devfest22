@@ -181,7 +181,7 @@ sections:
               width: 0
               height: 0
               url: /images/google.svg
-            height: 60
+            height: 80
           - type: Partner
             name: TIMEX
             url: 'https://timex.ph/'
