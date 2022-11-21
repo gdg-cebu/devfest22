@@ -157,6 +157,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/jb_beam.png
             height: 80
       - type: PartnersGroup
         title: General sponsors
