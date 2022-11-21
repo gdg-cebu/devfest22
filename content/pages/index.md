@@ -101,7 +101,7 @@ sections:
             height: 60
             name: AMCS
       - type: PartnersGroup
-        title: Amazing supporters
+        title: Gold sponsors
         partners: []
       - type: PartnersGroup
         title: General sponsors
