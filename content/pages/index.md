@@ -114,6 +114,9 @@ sections:
               url: /images/future-processing__logo-2017-300dpi.jpg
             height: 80
       - type: PartnersGroup
+        title: PR Partner
+        partners: []
+      - type: PartnersGroup
         title: General sponsors
         partners:
           - type: Partner
@@ -139,9 +142,6 @@ sections:
               height: 0
               url: /images/golden-peak.png
             height: 60
-      - type: PartnersGroup
-        title: PR Partner
-        partners: []
       - type: PartnersGroup
         title: Media Partner
         partners: []
