@@ -141,7 +141,7 @@ sections:
         partners:
           - type: Partner
             name: The Company Cebu
-            url: ''
+            url: 'https://thecompany.ph/'
             logo:
               type: Image
               alt: ''
