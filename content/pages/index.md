@@ -90,6 +90,11 @@ sections:
             url: ''
             logo: null
             height: 60
+          - type: Partner
+            name: AMCS
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: General sponsors
         partners:
