@@ -196,7 +196,7 @@ sections:
             name: Manulife
             url: ''
             logo: null
-            height: 60
+            height: 80
       - type: PartnersGroup
         title: Venue Partner
         partners:
