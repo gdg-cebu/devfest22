@@ -189,7 +189,7 @@ sections:
             height: 80
           - type: Partner
             name: Manulife
-            url: ''
+            url: 'https://www.manulife.com.ph/'
             logo:
               type: Image
               alt: ''
