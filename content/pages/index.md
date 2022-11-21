@@ -182,6 +182,11 @@ sections:
               height: 0
               url: /images/google.svg
             height: 60
+          - type: Partner
+            name: TIMEX
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: Venue Partner
         partners:
