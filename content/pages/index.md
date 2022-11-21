@@ -83,6 +83,9 @@ sections:
     title: Partners
     groups:
       - type: PartnersGroup
+        title: Platinum sponsors
+        partners: []
+      - type: PartnersGroup
         title: General sponsors
         partners:
           - type: Partner
@@ -95,9 +98,6 @@ sections:
               height: 0
               url: /images/google.svg
             height: 60
-      - type: PartnersGroup
-        title: Platinum sponsors
-        partners: []
       - type: PartnersGroup
         title: Amazing supporters
         partners: []
