@@ -88,7 +88,11 @@ sections:
           - type: Partner
             name: DNA Micro
             url: ''
-            logo: null
+            logo:
+              type: Image
+              alt: ''
+              width: 0
+              height: 0
             height: 60
           - type: Partner
             name: AMCS
