@@ -119,7 +119,11 @@ sections:
           - type: Partner
             name: SuiteWorks
             url: ''
-            logo: null
+            logo:
+              type: Image
+              alt: ''
+              width: 0
+              height: 0
             height: 60
       - type: PartnersGroup
         title: General sponsors
