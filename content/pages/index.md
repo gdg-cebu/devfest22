@@ -128,7 +128,7 @@ sections:
             height: 80
           - type: Partner
             name: InfoTrust
-            url: ''
+            url: 'https://infotrust.com/'
             logo:
               type: Image
               alt: ''
