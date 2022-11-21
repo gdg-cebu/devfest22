@@ -153,7 +153,7 @@ sections:
             name: Jetbrains
             url: ''
             logo: null
-            height: 60
+            height: 80
       - type: PartnersGroup
         title: General sponsors
         partners:
