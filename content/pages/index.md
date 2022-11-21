@@ -95,11 +95,6 @@ sections:
               height: 0
               url: /images/dna-micro-logo- svg.svg
             height: 80
-          - type: Partner
-            url: ''
-            logo: null
-            height: 80
-            name: AMCS
       - type: PartnersGroup
         title: Gold sponsors
         partners:
