@@ -134,6 +134,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/InfoTrust logo - 256x256 - blue on white.png
             height: 60
       - type: PartnersGroup
         title: General sponsors
