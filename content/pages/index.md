@@ -184,7 +184,7 @@ sections:
             height: 60
           - type: Partner
             name: TIMEX
-            url: ''
+            url: 'https://timex.ph/'
             logo:
               type: Image
               alt: ''
