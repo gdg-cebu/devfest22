@@ -137,7 +137,7 @@ sections:
               url: /images/InfoTrust logo - 256x256 - blue on white.png
             height: 80
       - type: PartnersGroup
-        title: Media Partner
+        title: Community Partners
         partners: []
       - type: PartnersGroup
         title: General sponsors
