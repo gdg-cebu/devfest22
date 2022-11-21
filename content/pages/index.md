@@ -214,7 +214,7 @@ sections:
               width: 0
               height: 0
               url: /images/golden-peak.png
-            height: 60
+            height: 80
   - type: SocialSection
     content: '#### Keep in touch with us for the latest announcements about the event.'
     links:
