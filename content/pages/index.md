@@ -98,7 +98,7 @@ sections:
           - type: Partner
             url: ''
             logo: null
-            height: 60
+            height: 80
             name: AMCS
       - type: PartnersGroup
         title: Gold sponsors
