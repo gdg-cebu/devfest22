@@ -149,6 +149,11 @@ sections:
               height: 0
               url: /images/The Company Cebu Logo - Black.png
             height: 80
+          - type: Partner
+            name: Jetbrains
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: General sponsors
         partners:
