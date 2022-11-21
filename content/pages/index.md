@@ -190,7 +190,7 @@ sections:
               alt: ''
               width: 0
               height: 0
-            height: 60
+            height: 80
       - type: PartnersGroup
         title: Venue Partner
         partners:
