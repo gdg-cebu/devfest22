@@ -195,7 +195,11 @@ sections:
           - type: Partner
             name: Manulife
             url: ''
-            logo: null
+            logo:
+              type: Image
+              alt: ''
+              width: 0
+              height: 0
             height: 80
       - type: PartnersGroup
         title: Venue Partner
