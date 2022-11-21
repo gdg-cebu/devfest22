@@ -118,7 +118,7 @@ sections:
         partners:
           - type: Partner
             name: SuiteWorks
-            url: ''
+            url: 'https://www.facebook.com/suiteworksopc/'
             logo:
               type: Image
               alt: ''
