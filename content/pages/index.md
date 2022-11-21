@@ -159,6 +159,11 @@ sections:
               height: 0
               url: /images/jb_beam.png
             height: 80
+          - type: Partner
+            name: Enspace
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: General sponsors
         partners:
