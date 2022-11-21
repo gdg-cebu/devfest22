@@ -87,7 +87,7 @@ sections:
         partners:
           - type: Partner
             name: DNA Micro
-            url: ''
+            url: 'https://www.dnamicro.com/'
             logo:
               type: Image
               alt: ''
