@@ -200,6 +200,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/Manulife_rgb.jpg
             height: 80
       - type: PartnersGroup
         title: Venue Partner
