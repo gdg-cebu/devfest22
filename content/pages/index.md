@@ -114,7 +114,7 @@ sections:
               url: /images/future-processing__logo-2017-300dpi.jpg
             height: 80
       - type: PartnersGroup
-        title: PR Partner
+        title: Silver sponsors
         partners: []
       - type: PartnersGroup
         title: General sponsors
