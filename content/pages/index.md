@@ -111,6 +111,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/future-processing__logo-2017-300dpi.jpg
             height: 60
       - type: PartnersGroup
         title: General sponsors
