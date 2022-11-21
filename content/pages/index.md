@@ -124,6 +124,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/sw logo_sw_white_bg.jpg
             height: 60
       - type: PartnersGroup
         title: General sponsors
