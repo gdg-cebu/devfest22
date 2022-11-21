@@ -101,6 +101,9 @@ sections:
             height: 60
             name: AMCS
       - type: PartnersGroup
+        title: Amazing supporters
+        partners: []
+      - type: PartnersGroup
         title: General sponsors
         partners:
           - type: Partner
@@ -113,9 +116,6 @@ sections:
               height: 0
               url: /images/google.svg
             height: 60
-      - type: PartnersGroup
-        title: Amazing supporters
-        partners: []
       - type: PartnersGroup
         title: Venue Partner
         partners:
