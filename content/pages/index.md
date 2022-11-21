@@ -102,7 +102,12 @@ sections:
             name: AMCS
       - type: PartnersGroup
         title: Gold sponsors
-        partners: []
+        partners:
+          - type: Partner
+            name: Future Processing
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: General sponsors
         partners:
