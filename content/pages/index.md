@@ -126,6 +126,11 @@ sections:
               height: 0
               url: /images/sw logo_sw_white_bg.jpg
             height: 80
+          - type: Partner
+            name: InfoTrust
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: General sponsors
         partners:
