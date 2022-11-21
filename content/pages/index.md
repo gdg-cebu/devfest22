@@ -138,7 +138,12 @@ sections:
             height: 80
       - type: PartnersGroup
         title: Community Partners
-        partners: []
+        partners:
+          - type: Partner
+            name: The Company Cebu
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: General sponsors
         partners:
