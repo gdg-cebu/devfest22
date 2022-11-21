@@ -93,6 +93,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/dna-micro-logo- svg.svg
             height: 60
           - type: Partner
             name: AMCS
