@@ -169,7 +169,7 @@ sections:
         partners:
           - type: Partner
             name: Google
-            url: ''
+            url: 'https://www.google.com/'
             logo:
               type: Image
               alt: ''
