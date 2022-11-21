@@ -84,7 +84,12 @@ sections:
     groups:
       - type: PartnersGroup
         title: Platinum sponsors
-        partners: []
+        partners:
+          - type: Partner
+            name: DNA Micro
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: General sponsors
         partners:
