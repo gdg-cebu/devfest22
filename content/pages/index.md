@@ -115,7 +115,12 @@ sections:
             height: 80
       - type: PartnersGroup
         title: Silver sponsors
-        partners: []
+        partners:
+          - type: Partner
+            name: SuiteWorks
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: General sponsors
         partners:
