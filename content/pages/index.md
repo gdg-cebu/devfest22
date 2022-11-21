@@ -161,7 +161,7 @@ sections:
             height: 80
           - type: Partner
             name: Enspace
-            url: ''
+            url: 'https://www.facebook.com/enspacecebu/'
             logo:
               type: Image
               alt: ''
