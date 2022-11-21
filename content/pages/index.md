@@ -147,6 +147,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/The Company Cebu Logo - Black.png
             height: 80
       - type: PartnersGroup
         title: General sponsors
