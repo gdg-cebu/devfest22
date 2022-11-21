@@ -151,7 +151,7 @@ sections:
             height: 80
           - type: Partner
             name: Jetbrains
-            url: ''
+            url: 'https://www.jetbrains.com/'
             logo:
               type: Image
               alt: ''
