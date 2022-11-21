@@ -105,7 +105,7 @@ sections:
         partners:
           - type: Partner
             name: Future Processing
-            url: ''
+            url: 'https://www.youtube.com/@FutureProcessing'
             logo:
               type: Image
               alt: ''
