@@ -192,6 +192,11 @@ sections:
               height: 0
               url: /images/Timex_Market_Logo.png
             height: 80
+          - type: Partner
+            name: Manulife
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: Venue Partner
         partners:
