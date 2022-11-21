@@ -96,7 +96,7 @@ sections:
               url: /images/google.svg
             height: 60
       - type: PartnersGroup
-        title: Special thanks
+        title: Platinum sponsors
         partners: []
       - type: PartnersGroup
         title: Amazing supporters
