@@ -10,7 +10,6 @@ sections:
         details: ''
         sessions:
           - content/data/sessions/session-ah67pq549.json
-          - content/data/sessions/session-6uuwyiqy2.json
       - type: ScheduleTrack
         title: Hall A
         details: ''
