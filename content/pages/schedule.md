@@ -25,7 +25,8 @@ sections:
       - type: ScheduleTrack
         title: Hall A
         details: ''
-        sessions: []
+        sessions:
+          - content/data/sessions/session-rxh6yjwjm.json
       - type: ScheduleTrack
         title: Hall B
         details: ''
