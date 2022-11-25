@@ -182,6 +182,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/294005973_568159471580237_5206037387143692752_n.jpg
             height: 60
       - type: PartnersGroup
         title: General sponsors
