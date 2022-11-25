@@ -177,7 +177,11 @@ sections:
           - type: Partner
             name: Dynamic Pitch
             url: 'https://allsocials.link/dynamicpitch'
-            logo: null
+            logo:
+              type: Image
+              alt: ''
+              width: 0
+              height: 0
             height: 60
       - type: PartnersGroup
         title: General sponsors
