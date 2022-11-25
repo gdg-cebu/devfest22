@@ -9,16 +9,6 @@ sections:
         title: Main Hall
         details: ''
         sessions: []
-  - type: ScheduleSection
-    tracks:
-      - type: ScheduleTrack
-        title: Track 1
-        details: Primary Session Hall
-        sessions: []
-      - type: ScheduleTrack
-        title: Track 2
-        details: Secondary Session Hall
-        sessions: []
   - type: SpacerSection
     size: flex
   - type: DividerSection
