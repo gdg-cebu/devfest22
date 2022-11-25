@@ -13,10 +13,10 @@ sections:
       - content/data/speakers/speaker-s7s022bij.json
       - content/data/speakers/speaker-zsv05ftkh.json
       - content/data/speakers/speaker-m4qfp57k2.json
+      - content/data/speakers/speaker-jf7c3fyuf.json
       - content/data/speakers/speaker-xe8kqn7a9.json
       - content/data/speakers/speaker-5ul98ovxp.json
       - content/data/speakers/speaker-yqr78vbtx.json
-      - content/data/speakers/speaker-jf7c3fyuf.json
   - type: SpacerSection
     size: flex
   - type: DividerSection
