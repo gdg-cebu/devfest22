@@ -3,6 +3,8 @@
     "title": "Web Development using Next.js and Firebase",
     "startTime": "2022-11-27T15:30",
     "endTime": "2022-11-27T15:50",
-    "speakers": [],
+    "speakers": [
+        "content/data/speakers/speaker-m4qfp57k2.json"
+    ],
     "spanAllTracks": false
 }
