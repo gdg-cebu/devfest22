@@ -3,6 +3,8 @@
     "title": "Developing the Engineering Mindset",
     "startTime": "2022-11-27T15:30",
     "endTime": "2022-11-27T15:50",
-    "speakers": [],
+    "speakers": [
+        "content/data/speakers/speaker-s7s022bij.json"
+    ],
     "spanAllTracks": false
 }
