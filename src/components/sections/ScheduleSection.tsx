@@ -152,7 +152,7 @@ const getTimeString = (date: Date | string): string => {
   if (typeof date === 'string') {
     date = new Date(date);
   }
-  return format(date, 'H:mm aaa');
+  return format(date, 'K:mm aaa');
 };
 
 const normalizeDate = (date: Date | string): Date => {
