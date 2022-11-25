@@ -174,6 +174,11 @@ sections:
               height: 0
               url: /images/black transparent logo.png
             height: 80
+          - type: Partner
+            name: Dynamic Pitch
+            url: ''
+            logo: null
+            height: 60
       - type: PartnersGroup
         title: General sponsors
         partners:
