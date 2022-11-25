@@ -33,7 +33,8 @@ sections:
       - type: ScheduleTrack
         title: Hall B
         details: ''
-        sessions: []
+        sessions:
+          - content/data/sessions/session-6z07qji0y.json
   - type: SpacerSection
     size: flex
   - type: DividerSection
