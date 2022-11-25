@@ -4,7 +4,11 @@ title: Schedule
 showLogo: true
 sections:
   - type: ScheduleSection
-    tracks: []
+    tracks:
+      - type: ScheduleTrack
+        title: Main Hall
+        details: ''
+        sessions: []
   - type: SpacerSection
     size: flex
   - type: DividerSection
