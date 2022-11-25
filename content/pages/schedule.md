@@ -6,11 +6,6 @@ sections:
   - type: ScheduleSection
     tracks:
       - type: ScheduleTrack
-        title: Main Hall
-        details: ''
-        sessions:
-          - content/data/sessions/session-ah67pq549.json
-      - type: ScheduleTrack
         title: Hall B
         details: ''
         sessions: []
