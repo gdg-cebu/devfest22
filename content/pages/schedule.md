@@ -6,7 +6,7 @@ sections:
   - type: ScheduleSection
     tracks:
       - type: ScheduleTrack
-        title: Ingress
+        title: Main Hall
         details: ''
         sessions: []
   - type: ScheduleSection
