@@ -4,6 +4,8 @@ title: Schedule
 showLogo: true
 sections:
   - type: ScheduleSection
+    tracks: []
+  - type: ScheduleSection
     tracks:
       - type: ScheduleTrack
         title: Track 1
