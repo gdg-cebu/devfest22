@@ -3,6 +3,8 @@
     "title": "Accessibility in Android",
     "startTime": "2022-11-27T15:00",
     "endTime": "2022-11-27T15:30",
-    "speakers": [],
+    "speakers": [
+        "content/data/speakers/speaker-uzrpci68l.json"
+    ],
     "spanAllTracks": false
 }
