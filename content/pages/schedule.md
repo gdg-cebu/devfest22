@@ -9,6 +9,10 @@ sections:
         title: Main Hall
         details: ''
         sessions: []
+      - type: ScheduleTrack
+        title: Hall A
+        details: ''
+        sessions: []
   - type: SpacerSection
     size: flex
   - type: DividerSection
