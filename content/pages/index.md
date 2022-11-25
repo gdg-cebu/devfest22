@@ -176,7 +176,7 @@ sections:
             height: 80
           - type: Partner
             name: Dynamic Pitch
-            url: ''
+            url: 'https://allsocials.link/dynamicpitch'
             logo: null
             height: 60
       - type: PartnersGroup
