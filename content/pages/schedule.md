@@ -11,10 +11,6 @@ sections:
         sessions:
           - content/data/sessions/session-ah67pq549.json
       - type: ScheduleTrack
-        title: Hall A
-        details: ''
-        sessions: []
-      - type: ScheduleTrack
         title: Hall B
         details: ''
         sessions: []
