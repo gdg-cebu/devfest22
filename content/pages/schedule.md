@@ -16,7 +16,8 @@ sections:
       - type: ScheduleTrack
         title: Hall B
         details: ''
-        sessions: []
+        sessions:
+          - content/data/sessions/session-12l75y0rd.json
   - type: SpacerSection
     size: flex
   - type: DividerSection
