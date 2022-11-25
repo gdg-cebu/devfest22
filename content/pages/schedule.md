@@ -18,7 +18,6 @@ sections:
         details: ''
         sessions:
           - content/data/sessions/session-12l75y0rd.json
-          - content/data/sessions/session-6uuwyiqy2.json
   - type: SpacerSection
     size: flex
   - type: DividerSection
