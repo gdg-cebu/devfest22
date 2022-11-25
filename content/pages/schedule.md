@@ -20,6 +20,7 @@ sections:
           - content/data/sessions/session-11bjv3boc.json
           - content/data/sessions/session-mnd2upui4.json
           - content/data/sessions/session-ljve0vue2.json
+          - content/data/sessions/session-j8pgx330k.json
       - type: ScheduleTrack
         title: Hall A
         details: ''
