@@ -97,7 +97,7 @@ sections:
             height: 80
           - type: Partner
             name: AMCS
-            url: ''
+            url: 'https://www.amcsgroup.com/'
             logo: null
             height: 60
       - type: PartnersGroup
