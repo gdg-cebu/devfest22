@@ -27,6 +27,7 @@ sections:
         details: ''
         sessions:
           - content/data/sessions/session-rxh6yjwjm.json
+          - content/data/sessions/session-fz1efyrqh.json
       - type: ScheduleTrack
         title: Hall B
         details: ''
