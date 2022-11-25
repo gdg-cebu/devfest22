@@ -4,7 +4,11 @@ title: Schedule
 showLogo: true
 sections:
   - type: ScheduleSection
-    tracks: []
+    tracks:
+      - type: ScheduleTrack
+        title: Ingress
+        details: ''
+        sessions: []
   - type: ScheduleSection
     tracks:
       - type: ScheduleTrack
