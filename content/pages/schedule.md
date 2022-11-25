@@ -8,7 +8,8 @@ sections:
       - type: ScheduleTrack
         title: Main Hall
         details: ''
-        sessions: []
+        sessions:
+          - content/data/sessions/session-ah67pq549.json
   - type: SpacerSection
     size: flex
   - type: DividerSection
