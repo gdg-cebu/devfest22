@@ -18,6 +18,7 @@ sections:
           - content/data/sessions/session-xyup25mq2.json
           - content/data/sessions/session-n8wxnj6lc.json
           - content/data/sessions/session-11bjv3boc.json
+          - content/data/sessions/session-mnd2upui4.json
   - type: SpacerSection
     size: flex
   - type: DividerSection
