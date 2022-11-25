@@ -4,5 +4,10 @@
     "designation": "CEO & Founder",
     "company": "Opsta (Thailand) Co., Ltd.",
     "bio": "Jirayut is a passionate DevOps Engineer who loves to bring people, both Developers, and Infrastructure, to understand each other more. He is the CEO and Founder of Opsta (Thailand) Co., Ltd., which provides DevSecOps Transformation Consultants for Enterprise Customers. In addition, he is a geek in love with Automation, Google Cloud Platform, and believes in the Open Source community.\n\n",
-    "image": null
+    "image": {
+        "type": "Image",
+        "alt": "",
+        "width": 0,
+        "height": 0
+    }
 }
