@@ -98,7 +98,11 @@ sections:
           - type: Partner
             name: AMCS
             url: 'https://www.amcsgroup.com/'
-            logo: null
+            logo:
+              type: Image
+              alt: ''
+              width: 0
+              height: 0
             height: 60
       - type: PartnersGroup
         title: Gold sponsors
