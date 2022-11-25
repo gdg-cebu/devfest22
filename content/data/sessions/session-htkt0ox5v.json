@@ -3,6 +3,8 @@
     "title": "Design Sprint 2.0",
     "startTime": "2022-11-27T15:50",
     "endTime": "2022-11-27T16:10",
-    "speakers": [],
+    "speakers": [
+        "content/data/speakers/speaker-zsv05ftkh.json"
+    ],
     "spanAllTracks": false
 }
