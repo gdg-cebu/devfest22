@@ -4,13 +4,7 @@ title: Schedule
 showLogo: true
 sections:
   - type: ScheduleSection
-    tracks:
-      - type: ScheduleTrack
-        title: Main Hall
-        details: ''
-        sessions:
-          - content/data/sessions/session-ah67pq549.json
-          - content/data/sessions/session-s1m3b7fz0.json
+    tracks: []
   - type: ScheduleSection
     tracks:
       - type: ScheduleTrack
