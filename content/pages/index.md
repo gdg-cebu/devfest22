@@ -103,6 +103,7 @@ sections:
               alt: ''
               width: 0
               height: 0
+              url: /images/amcs-2.png
             height: 60
       - type: PartnersGroup
         title: Gold sponsors
