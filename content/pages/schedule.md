@@ -10,7 +10,6 @@ sections:
         details: ''
         sessions:
           - content/data/sessions/session-ah67pq549.json
-          - content/data/sessions/session-1nwph3m2x.json
           - content/data/sessions/session-s1m3b7fz0.json
   - type: ScheduleSection
     tracks:
