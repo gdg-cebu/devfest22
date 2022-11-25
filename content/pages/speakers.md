@@ -17,6 +17,7 @@ sections:
       - content/data/speakers/speaker-xe8kqn7a9.json
       - content/data/speakers/speaker-5ul98ovxp.json
       - content/data/speakers/speaker-yqr78vbtx.json
+      - content/data/speakers/speaker-l0sf50cqv.json
   - type: SpacerSection
     size: flex
   - type: DividerSection
