@@ -156,7 +156,7 @@ const getTimeString = (date: Date | string): string => {
 };
 
 const normalizeDate = (date: Date | string): Date => {
-  return new Date(`01-01-1970 ${getTimeString(date)}`);
+  return new Date(`01/01/1970 ${getTimeString(date)}`);
 };
 
 export default ScheduleSection;
