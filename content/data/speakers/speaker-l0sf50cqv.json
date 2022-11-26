@@ -4,5 +4,10 @@
     "designation": "Product Owner",
     "company": "Symph",
     "bio": "",
-    "image": null
+    "image": {
+        "type": "Image",
+        "alt": "",
+        "width": 0,
+        "height": 0
+    }
 }
