@@ -40,4 +40,8 @@ sections:
         label: Website
         url: 'https://gdgcebu.org/'
     image: null
+  - type: EventInfoSection
+    logo: null
+    cta: null
+    banner: null
 ---
