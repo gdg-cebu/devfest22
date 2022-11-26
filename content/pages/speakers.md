@@ -17,8 +17,6 @@ sections:
       - content/data/speakers/speaker-l0sf50cqv.json
       - content/data/speakers/speaker-5ul98ovxp.json
       - content/data/speakers/speaker-yqr78vbtx.json
-  - type: SpeakersSection
-    speakers: []
   - type: SpacerSection
     size: flex
   - type: DividerSection
