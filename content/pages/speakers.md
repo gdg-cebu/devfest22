@@ -14,7 +14,6 @@ sections:
       - content/data/speakers/speaker-zsv05ftkh.json
       - content/data/speakers/speaker-m4qfp57k2.json
       - content/data/speakers/speaker-jf7c3fyuf.json
-      - content/data/speakers/speaker-xe8kqn7a9.json
       - content/data/speakers/speaker-l0sf50cqv.json
       - content/data/speakers/speaker-5ul98ovxp.json
       - content/data/speakers/speaker-yqr78vbtx.json
