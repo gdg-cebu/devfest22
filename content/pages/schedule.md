@@ -24,13 +24,6 @@ sections:
           - content/data/sessions/session-m8aehz50q.json
           - content/data/sessions/session-rxh6yjwjm.json
       - type: ScheduleTrack
-        title: Hall A
-        details: ''
-        sessions:
-          - content/data/sessions/session-fz1efyrqh.json
-          - content/data/sessions/session-cqg2nyrja.json
-          - content/data/sessions/session-a1r29mp2p.json
-      - type: ScheduleTrack
         title: Hall B
         details: ''
         sessions:
