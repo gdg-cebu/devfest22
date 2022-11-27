@@ -20,7 +20,6 @@ sections:
           - content/data/sessions/session-11bjv3boc.json
           - content/data/sessions/session-mnd2upui4.json
           - content/data/sessions/session-rxh6yjwjm.json
-          - content/data/sessions/session-fz1efyrqh.json
           - content/data/sessions/session-cqg2nyrja.json
           - content/data/sessions/session-a1r29mp2p.json
           - content/data/sessions/session-ljve0vue2.json
