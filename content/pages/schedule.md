@@ -33,6 +33,7 @@ sections:
           - content/data/sessions/session-6z07qji0y.json
           - content/data/sessions/session-mnwcyyqnc.json
           - content/data/sessions/session-fz1efyrqh.json
+          - content/data/sessions/session-a1r29mp2p.json
   - type: SpacerSection
     size: flex
   - type: DividerSection
