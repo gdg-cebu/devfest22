@@ -31,7 +31,6 @@ sections:
         sessions:
           - content/data/sessions/session-6z07qji0y.json
           - content/data/sessions/session-mnwcyyqnc.json
-          - content/data/sessions/session-htkt0ox5v.json
           - content/data/sessions/session-aa5d8pvbw.json
   - type: SpacerSection
     size: flex
