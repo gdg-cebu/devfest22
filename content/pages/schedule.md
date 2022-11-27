@@ -21,10 +21,10 @@ sections:
           - content/data/sessions/session-mnd2upui4.json
           - content/data/sessions/session-rxh6yjwjm.json
           - content/data/sessions/session-fz1efyrqh.json
+          - content/data/sessions/session-cqg2nyrja.json
           - content/data/sessions/session-ljve0vue2.json
           - content/data/sessions/session-j8pgx330k.json
           - content/data/sessions/session-m8aehz50q.json
-          - content/data/sessions/session-cqg2nyrja.json
       - type: ScheduleTrack
         title: Hall B
         details: ''
