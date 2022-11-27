@@ -17,7 +17,6 @@ sections:
           - content/data/sessions/session-1x3t4ildp.json
           - content/data/sessions/session-xyup25mq2.json
           - content/data/sessions/session-n8wxnj6lc.json
-          - content/data/sessions/session-11bjv3boc.json
           - content/data/sessions/session-mnd2upui4.json
           - content/data/sessions/session-rxh6yjwjm.json
           - content/data/sessions/session-htkt0ox5v.json
